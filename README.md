@@ -29,3 +29,4 @@ I'm a passionate **Software Developer** currently pursuing a Bachelor's in Compu
 ---
 
 > “Learning never exhausts the mind.” – *Leonardo da Vinci*
+#wellcome
