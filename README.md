@@ -1,19 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Dhruv%20Patel&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20Engineer&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Dhruv%20Patel&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Founder%20@%20NEXORA&descAlignY=55&descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=50&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;React+%C2%B7+Node.js+%C2%B7+Express+%C2%B7+MongoDB;Real-Time+Systems+%C2%B7+AI+Integrations+%C2%B7+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=50&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;React+%C2%B7+Node.js+%C2%B7+Express+%C2%B7+MongoDB;Real-Time+Systems+%C2%B7+AI+Integrations+%C2%B7+E-Commerce;Open+to+Remote+Roles+%26+Freelance+Projects+%F0%9F%92%BC" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=DhruvPatel3125&label=Profile%20Views&color=6AD3F7&style=flat-square" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/DhruvPatel3125?label=Followers&style=flat-square&color=6AD3F7&labelColor=1a1b27" alt="Followers" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Freelance-success?style=flat-square" alt="Open to Work" />
 
 <p>
   <a href="mailto:dhruvjpatel5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/dhruvpatel312/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dhruvpatel312"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/~01678b9d26b418a449"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
   <a href="https://github.com/DhruvPatel3125"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/profile/dhruvjpatel5"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 </p>
@@ -32,12 +34,14 @@
 
 <img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-I'm a **Full-Stack Developer** specializing in the MERN stack, focused on building real-time systems, scalable backend architecture, and AI-integrated applications.
+I'm a **Full-Stack Developer** specialising in the MERN stack — I build real client products end-to-end: e-commerce stores, booking platforms, SaaS dashboards and business websites that are live and earning.
 
-- 🔭 Currently building real-time booking & analytics platforms @ **PlanicsDev Infotech LLP**
+- 🚀 Founder of **NEXORA** — I design & build professional websites for local businesses across India
+- 🔭 Previously built real-time booking & analytics platforms @ **PlanicsDev Infotech LLP**
+- 🌐 Shipped live client work: **[Janki Jiyana House](https://jankijiyanahouse.com)** (D2C e-commerce) & **[Deepzi Salon & Spa](https://deepzi-salon.vercel.app)**
 - 🌱 Exploring AI integrations, RAG pipelines, and microservices architecture
 - 💬 Ask me about React, Redux, Node.js, Socket.IO, or Redis
-- ⚡ Fun fact: I love turning slow, clunky apps into fast, real-time systems
+- 💼 Open to **remote full-stack roles** and **freelance projects** — $15/hr on Upwork
 - 📍 Surat, Gujarat, India
 
 <br clear="right"/>
@@ -45,6 +49,13 @@ I'm a **Full-Stack Developer** specializing in the MERN stack, focused on buildi
 ---
 
 ## 💼 Work Experience
+
+### 🚀 Freelance Full-Stack Developer · NEXORA (Founder)
+`Sep 2026 – Present` · Surat / Remote
+
+- 🌐 Building professional websites & e-commerce stores for local businesses — salons, cafes, clinics, retailers
+- 🎯 Full cycle ownership: prospecting → demo → build → deploy → handover
+- ⚡ Recent launches: Janki Jiyana House (live D2C store), Deepzi Unisex Salon & Spa, Crow Cafe
 
 ### 🏢 Full-Stack Developer · PlanicsDev Infotech LLP
 `Oct 2025 – Jun 2026` · Surat, India
@@ -81,9 +92,9 @@ I'm a **Full-Stack Developer** specializing in the MERN stack, focused on buildi
 **Frontend**
 <br/>
 <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux_Saga-999999?style=for-the-badge&logo=redux-saga&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
@@ -112,7 +123,6 @@ I'm a **Full-Stack Developer** specializing in the MERN stack, focused on buildi
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
 <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" />
 
 </div>
@@ -132,7 +142,7 @@ I'm a **Full-Stack Developer** specializing in the MERN stack, focused on buildi
 - ⚡ **Live dashboards & analytics** powered by Socket.IO & Recharts
 - 🗺️ **Map-based property search** using Leaflet.js
 - 💳 **Seamless checkout** via Razorpay
-- 🔔 **Automated notifications** — Redis + Bull Queue + Make.com webhooks
+- 🔔 **Automated notifications** — Redis + Bull Queue + webhooks
 - 🌤️ **Live weather per property** via Open-Meteo API
 - 🔐 **Google OAuth** secure authentication
 - 📦 **Cloudinary** for all media/asset management
@@ -157,7 +167,31 @@ I'm a **Full-Stack Developer** specializing in the MERN stack, focused on buildi
 
 <br/>
 
-### 🛍️ Shopyfy — Full-Stack eCommerce Platform
+### 🛍️ Janki Jiyana House — Live D2C E-Commerce Store *(Client Project)*
+> A real, revenue-facing online store for a Surat children's clothing brand — built, SEO-optimised & maintained by me
+
+| | |
+|---|---|
+| 🛒 Storefront | Product catalogue, categories, cart & WhatsApp ordering |
+| ⚡ Performance | Full technical SEO — prerendered content, canonical sitemap (76 pages), Store schema |
+| 📱 Mobile-first | 99% of customers shop on phones — compact mobile UX throughout |
+| 🧱 Stack | React.js · Node.js · Express.js · MongoDB |
+| 🌐 Live | [jankijiyanahouse.com →](https://jankijiyanahouse.com) |
+
+<br/>
+
+### 💆 Deepzi Unisex Salon & Spa — Business Website *(Client Project)*
+
+| | |
+|---|---|
+| 🎨 Design | Premium dark-pine & gold editorial theme, animated offer sections |
+| 📲 Booking | Service-wise WhatsApp booking buttons |
+| 🧱 Stack | React.js · Tailwind CSS · Framer Motion |
+| 🌐 Live | [deepzi-salon.vercel.app →](https://deepzi-salon.vercel.app) |
+
+<br/>
+
+### 🛒 Shopyfy — Full-Stack eCommerce Platform
 
 | | |
 |---|---|
@@ -169,25 +203,16 @@ I'm a **Full-Stack Developer** specializing in the MERN stack, focused on buildi
 
 <br/>
 
+### 🏫 EduCore — Multi-Tenant School SaaS
+Role-based SaaS for schools — tenant-isolated data, admin/teacher/student portals, built on React · Node.js · MongoDB.
+
 ### 👨‍💼 Employee Management System
+Role-based admin & employee portals with task assignment and tracking.
+🌐 [Live Demo →](https://employee-managment-system-7wyc.vercel.app/)
 
-| | |
-|---|---|
-| 🔑 Role-Based Access | Admin & Employee login portals |
-| 📋 Task Management | Assign, track & update tasks |
-| 🎨 UI | Responsive design with Tailwind CSS |
-| 🧱 Stack | React.js · Node.js · MongoDB · Tailwind |
-| 🌐 Live | [Demo →](https://employee-managment-system-7wyc.vercel.app/) |
-
-<br/>
-
-### 🌐 Personal Portfolio
-Responsive developer portfolio built with **React.js + CSS**, deployed on **Vercel**.
-🔗 [Live Demo →](https://codsoft-git-main-dhruvs-projects-7db11567.vercel.app/)
-
-### 🔧 The Mejor API
-Scalable RESTful CRUD API built with **Node.js + Express.js + MongoDB**, following clean REST principles.
-🔗 [API Link →](https://lnkd.in/dPuv2b8q)
+### 🌐 Personal Portfolio — with RAG AI Assistant
+Developer portfolio featuring an AI assistant (Groq + Hugging Face embeddings) that answers questions about my work.
+🌐 [Live Demo →](https://codsoft-git-main-dhruvs-projects-7db11567.vercel.app/)
 
 ---
 
@@ -220,9 +245,10 @@ Scalable RESTful CRUD API built with **Node.js + Express.js + MongoDB**, followi
 <tr>
 <td align="center">
 
-**🏫 Sutex Bank College of Commerce & Economics, Amroli**
+**🏫 Sutex Bank College of Commerce & Science, Amroli**
 Bachelor of Computer Applications (BCA)
 📅 July 2023 – May 2026 &nbsp;·&nbsp; 🎯 CGPA: 8.69 / 10 &nbsp;·&nbsp; 📍 Surat, Gujarat
+🏆 Winner — Intra-College Hackathon (2025)
 
 </td>
 </tr>
@@ -235,7 +261,8 @@ Bachelor of Computer Applications (BCA)
 ### 🤝 Let's Connect
 
 <a href="mailto:dhruvjpatel5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/dhruvpatel312/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/dhruvpatel312"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.upwork.com/freelancers/~01678b9d26b418a449"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
 <a href="https://github.com/DhruvPatel3125"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/profile/dhruvjpatel5"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 
